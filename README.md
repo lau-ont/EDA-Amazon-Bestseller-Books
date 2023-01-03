@@ -1,6 +1,6 @@
-# EDA and Visualization on Amazon Bestseller Books (2009-2019) Dataset
+# EDA and Visualization on Amazon Bestseller Books (2009-2019)
 
-# Información general
+# Information:
 ***
 
 The aim of this analysis is to do a EDA, cleanup and visualization of a dataset about Amazon Best Sellers Books between 2009 and 2019. 
