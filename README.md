@@ -1,2 +1,17 @@
-# EDA-Amazon-Bestseller-Books
-EDA, cleaning, visualization and analysis from a dataset containing information about top selling books of Amazon(550 books) either belonging to fiction or non-fiction.
+# EDA and Visualization on Amazon Bestseller Books (2009-2019) Dataset
+
+# Información general
+***
+
+The aim of this analysis is to do a EDA, cleanup and visualization of a dataset about Amazon Best Sellers Books between 2009 and 2019. 
+
+The data can be downloaded from the link below. 
+
+## Requirements to replicate the methodology
+***
+```
+- NumPy
+- Pandas
+- Matplotlib / Seaborn
+- Sidetable
+```
