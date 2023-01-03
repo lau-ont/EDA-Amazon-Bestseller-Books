@@ -1,6 +1,4 @@
 # EDA and Visualization on Amazon Bestseller Books (2009-2019)
-
-# Information:
 ***
 
 The aim of this analysis is to do a EDA, cleanup and visualization of a dataset about Amazon Best Sellers Books between 2009 and 2019. 
@@ -26,3 +24,5 @@ In the course of the analysis, it was established which authors have been the mo
 - Matplotlib / Seaborn
 - Sidetable
 ```
+
+(https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019)
