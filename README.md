@@ -7,6 +7,16 @@ The aim of this analysis is to do a EDA, cleanup and visualization of a dataset 
 
 The data can be downloaded from the link below. 
 
+## Some results
+***
+
+https://raw.githubusercontent.com/lau-ont/EDA-Amazon-Bestseller-Books/main/graphics/books-author-3.png
+
+## Conclusions
+***
+
+In the course of the analysis, it was established which authors have been the most successful, how many books are there by each author, which books receive the best reviews from readers. In addition, it was found that non-fiction literature is becoming more often a bestseller, but users also like fiction more.
+
 ## Requirements to replicate the methodology
 ***
 ```
