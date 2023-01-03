@@ -10,6 +10,7 @@ The data can be downloaded from the link below.
 ## Some results
 ***
 
+![](https://raw.githubusercontent.com/lau-ont/EDA-Amazon-Bestseller-Books/main/graphics/books-author.png)
 ![](https://raw.githubusercontent.com/lau-ont/EDA-Amazon-Bestseller-Books/main/graphics/books-author-3.png)
 
 ## Conclusions
