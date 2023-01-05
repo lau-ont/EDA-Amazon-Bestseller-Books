@@ -17,10 +17,10 @@ In the course of the analysis, it was established which authors have been the mo
 
 ## Requirements to replicate the methodology
 ***
-```
+
 - [NumPy](https://numpy.org)
 - [Pandas](https://pandas.pydata.org)
 - [Matplotlib](https://matplotlib.org)
 - [Seaborn](https://seaborn.pydata.org)
 - [Sidetable](https://pypi.org/project/sidetable/)
-```
+
