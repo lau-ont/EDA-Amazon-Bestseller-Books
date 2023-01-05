@@ -3,7 +3,7 @@
 
 The aim of this analysis is to do an EDA, cleanup and visualization of a dataset about Amazon Best Sellers Books between 2009 and 2019. 
 
-The data can be downloaded from this [link](https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019). 
+The data can be downloaded from the link below. 
 
 ## Some results
 ***
@@ -17,10 +17,11 @@ In the course of the analysis, it was established which authors have been the mo
 
 ## Requirements to replicate the methodology
 ***
+```
+- NumPy
+- Pandas
+- Matplotlib / Seaborn
+- Sidetable
+```
 
-- [NumPy](https://numpy.org)
-- [Pandas](https://pandas.pydata.org)
-- [Matplotlib](https://matplotlib.org)
-- [Seaborn](https://seaborn.pydata.org)
-- [Sidetable](https://pypi.org/project/sidetable/)
-
+[Aquí](https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019)
