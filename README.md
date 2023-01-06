@@ -8,7 +8,7 @@ The data can be downloaded from this [link](https://www.kaggle.com/datasets/soot
 ## Some results
 ***
 
-![](https://raw.githubusercontent.com/lau-ont/EDA-Amazon-Bestseller-Books/main/graphics/books-author.png)
+![](https://github.com/lau-ont/EDA-Amazon-Bestseller-Books/main/graphics/books-author.png)
 
 ## Conclusions
 ***
