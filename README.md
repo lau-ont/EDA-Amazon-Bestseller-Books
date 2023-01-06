@@ -1,7 +1,7 @@
 # EDA and Visualization on Amazon Bestseller Books (2009-2019)
 ***
 
-# Project display order
+## Project display order
 ***
 
 1. [Files](https://github.com/lau-ont/EDA-Amazon-Bestseller-Books/tree/main/files)
@@ -10,7 +10,7 @@
    - [Visualization](https://github.com/lau-ont/EDA-Amazon-Bestseller-Books/blob/main/notebooks/2-Visualization.ipynb)
 4. [Graphics](https://github.com/lau-ont/EDA-Amazon-Bestseller-Books/tree/main/graphics)
 
-# Goal
+## Goal
 ***
 
 The aim of this analysis is to do an EDA, cleanup and visualization of a dataset about Amazon Best Sellers Books between 2009 and 2019. 
